@@ -1,8 +1,8 @@
 # ScreenshotHotKeys
 
-**基于AutoHotkey的自定义windows自带截屏快捷键**
-[个人博客指路：satone1008.cn](satone1008.cn)
-
+**基于AutoHotkey的自定义windows自带截屏快捷键**<br>
+个人博客指路：[satone1008.cn](satone1008.cn)<br>
+博客文章指路：[自定义windows自带截屏快捷键](https://satone1008.cn/?p=306)
 ## 使用前须知
 
 - 本程序基于AutoHotkey开发，使用前需先进行AutoHotkey的安装。文件夹内已包含对应版本的安装包，您亦可通过[软件官网](https://www.autohotkey.com/)进行下载（请选择1.1版本）。
